@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/heli_svn/!svn/ver/24/icepdf/Project1/libs
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/heli_svn/!svn/ver/24/icepdf/Project1/libs/logging.properties
+END
+batik-svggen.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/heli_svn/!svn/ver/24/icepdf/Project1/libs/batik-svggen.jar
+END
+batik-awt-util.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/heli_svn/!svn/ver/24/icepdf/Project1/libs/batik-awt-util.jar
+END
+bcprov-jdk15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/heli_svn/!svn/ver/24/icepdf/Project1/libs/bcprov-jdk15.jar
+END
+batik-util.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/heli_svn/!svn/ver/24/icepdf/Project1/libs/batik-util.jar
+END
+batik-xml.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/heli_svn/!svn/ver/24/icepdf/Project1/libs/batik-xml.jar
+END
+batik-dom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/heli_svn/!svn/ver/24/icepdf/Project1/libs/batik-dom.jar
+END
+batik-svg-dom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/heli_svn/!svn/ver/24/icepdf/Project1/libs/batik-svg-dom.jar
+END
